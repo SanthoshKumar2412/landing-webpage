@@ -1,2 +1,2 @@
 # landing-webpage
-using landing web page using full html and css
+create landing web page using  html and css
